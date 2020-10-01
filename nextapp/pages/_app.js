@@ -1,7 +1,7 @@
 import React,{useState} from "react";
 import Router from 'next/router';
-import '../styles/globals.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import '../styles/globals.css'
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import LoadingScreen from '../components/loadingScreen'
 
 // add nprogress module
