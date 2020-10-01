@@ -1,0 +1,35 @@
+{"event":"details","time":1532842013,"u":"60","run":"0.25","mem":"10.34","data":"----- Initiating master send function for BackupBuddy v8.2.6.6."}
+{"event":"details","time":1532842013,"u":"60","run":"0.25","mem":"10.34","data":"Basename file: `remote-send-test.php`. Post-send deletion: "}
+{"event":"details","time":1532842013,"u":"61","run":"0.26","mem":"10.34","data":"Created fileoptions lock file `send-TEST-e2w4w6xeg5jt.txt.lock` with ID: 5b5d501d96ffb1.90277509."}
+{"event":"details","time":1532842013,"u":"62","run":"0.26","mem":"10.34","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1532842013,"u":"62","run":"0.27","mem":"10.35","data":"Fileoptions `send-TEST-e2w4w6xeg5jt.txt` saved. 1128 bytes written."}
+{"event":"details","time":1532842013,"u":"62","run":"0.27","mem":"10.34","data":"Initializing destination."}
+{"event":"details","time":1532842013,"u":"63","run":"0.27","mem":"10.34","data":"Loading destination init file `\/var\/www\/html\/wp-content\/plugins\/backupbuddy\/destinations\/ftp\/init.php`."}
+{"event":"details","time":1532842013,"u":"63","run":"0.28","mem":"10.34","data":"Destination init loaded."}
+{"event":"details","time":1532842013,"u":"63","run":"0.28","mem":"10.34","data":"Initialized `ftp` destination."}
+{"event":"details","time":1532842013,"u":"63","run":"0.28","mem":"10.34","data":"Applying destination-specific defaults."}
+{"event":"details","time":1532842013,"u":"63","run":"0.28","mem":"10.35","data":"Applying global destination defaults."}
+{"event":"details","time":1532842013,"u":"63","run":"0.28","mem":"10.35","data":"Calling destination-specific send method `pb_backupbuddy_destination_ftp::send`."}
+{"event":"details","time":1532842013,"u":"63","run":"0.28","mem":"10.35","data":"FTP class send() function started."}
+{"event":"details","time":1532842013,"u":"70","run":"0.35","mem":"10.36","data":"Connected to FTP."}
+{"event":"details","time":1532842013,"u":"90","run":"0.55","mem":"10.36","data":"Logged in. Sending backup via FTP\/FTPs ..."}
+{"event":"details","time":1532842013,"u":"90","run":"0.55","mem":"10.36","data":"Passive FTP mode based on settings."}
+{"event":"details","time":1532842013,"u":"96","run":"0.60","mem":"10.36","data":"Entering FTP directory `\/public_html`."}
+{"event":"details","time":1532842013,"u":"99","run":"0.64","mem":"10.36","data":"About to put to FTP local file `\/var\/www\/html\/wp-content\/plugins\/backupbuddy\/destinations\/remote-send-test.php` of size `118 Bytes` to remote file `remote-send-test.php`."}
+{"event":"details","time":1532842014,"u":"10","run":"0.75","mem":"10.36","data":"Success completely sending `remote-send-test.php` to destination."}
+{"event":"details","time":1532842014,"u":"11","run":"0.75","mem":"10.36","data":"No FTP file limit to enforce."}
+{"event":"details","time":1532842014,"u":"11","run":"0.76","mem":"10.36","data":"About to load fileoptions data."}
+{"event":"details","time":1532842014,"u":"11","run":"0.76","mem":"10.36","data":"Fileoptions instance #13."}
+{"event":"details","time":1532842014,"u":"13","run":"0.77","mem":"10.36","data":"Created fileoptions lock file `send-TEST-e2w4w6xeg5jt.txt.lock` with ID: 5b5d501e1fb9b6.58773130."}
+{"event":"details","time":1532842014,"u":"13","run":"0.78","mem":"10.36","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1532842014,"u":"13","run":"0.78","mem":"10.36","data":"Fileoptions data loaded."}
+{"event":"details","time":1532842014,"u":"14","run":"0.79","mem":"10.37","data":"Fileoptions `send-TEST-e2w4w6xeg5jt.txt` saved. 1152 bytes written."}
+{"event":"details","time":1532842014,"u":"17","run":"0.82","mem":"10.35","data":"Completed send function. Success."}
+{"event":"details","time":1532842014,"u":"18","run":"0.83","mem":"10.35","data":"About to load fileoptions data."}
+{"event":"details","time":1532842014,"u":"18","run":"0.83","mem":"10.35","data":"Fileoptions instance #16."}
+{"event":"details","time":1532842014,"u":"19","run":"0.84","mem":"10.35","data":"Created fileoptions lock file `send-TEST-e2w4w6xeg5jt.txt.lock` with ID: 5b5d501e2ef807.04133688."}
+{"event":"details","time":1532842014,"u":"19","run":"0.84","mem":"10.35","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1532842014,"u":"19","run":"0.84","mem":"10.35","data":"Fileoptions data loaded."}
+{"event":"details","time":1532842014,"u":"20","run":"0.85","mem":"10.35","data":"Post-send deletion not enabled."}
+{"event":"details","time":1532842014,"u":"20","run":"0.85","mem":"10.35","data":"Finished sending email NOT enabled. Skipping."}
+{"event":"details","time":1532842014,"u":"21","run":"0.85","mem":"10.33","data":"Ending send() function pass."}

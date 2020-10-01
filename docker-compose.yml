@@ -1,0 +1,41 @@
+wordpress:
+    links:
+      - database:db
+    image: wordpress:5.5.1
+    container_name: wordpres_wptest
+    restart: always
+    volumes:
+      - ./public_html:/var/www/html
+      #  - ./php/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+    # environment:
+    # WORDPRESS_DB_HOST: database:db
+    # WORDPRESS_DB_PASSWORD: docker
+    # WORDPRESS_DB_NAME: wordpress
+    # WORDPRESS_TABLE_PREFIX: wp_
+    ports:
+        - 81:80
+
+database:
+    image: mariadb:10.1
+    container_name: mariadb
+    restart: always
+    volumes:
+      - ./mysql/initdb/:/docker-entrypoint-initdb.d
+      - ./mysql/conf.d:/etc/mysql/conf.d
+      - ./mysql/data/:/var/lib/mysql
+    ports:
+      - 3306:3306
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_USER=sa
+      - MYSQL_PASSWORD=sa
+
+phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    links:
+      - database:db
+    ports:
+      - 8200:80
+#  environment:
+#    PMA_USER: root
+#    PMA_PASSWORD: docker

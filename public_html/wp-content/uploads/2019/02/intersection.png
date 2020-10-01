@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+<script>(function(h,c){h[c]=h[c]+(h[c]&&' ')+'quform-js'})(document.documentElement,'className');</script><title>Page not found &#8211; Element Pack</title>
+<style type="text/css" media="screen">#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active:hover,body #booked-profile-page input[type=submit].button-primary:hover,body .booked-list-view button.button:hover, body .booked-list-view input[type=submit].button-primary:hover,body table.booked-calendar input[type=submit].button-primary:hover,body .booked-modal input[type=submit].button-primary:hover,body table.booked-calendar th,body table.booked-calendar thead,body table.booked-calendar thead th,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,body #booked-profile-page .booked-profile-header,body #booked-profile-page .booked-tabs li.active a,body #booked-profile-page .booked-tabs li.active a:hover,body #booked-profile-page .appt-block .google-cal-button > a:hover,#ui-datepicker-div.booked_custom_date_picker .ui-datepicker-header{ background:#365769 !important; }body #booked-profile-page input[type=submit].button-primary:hover,body table.booked-calendar input[type=submit].button-primary:hover,body .booked-list-view button.button:hover, body .booked-list-view input[type=submit].button-primary:hover,body .booked-modal input[type=submit].button-primary:hover,body table.booked-calendar th,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,body #booked-profile-page .booked-profile-header,body #booked-profile-page .appt-block .google-cal-button > a:hover{ border-color:#365769 !important; }body table.booked-calendar tr.days,body table.booked-calendar tr.days th,body .booked-calendarSwitcher.calendar,body #booked-profile-page .booked-tabs,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead th{ background:#264452 !important; }body table.booked-calendar tr.days th,body #booked-profile-page .booked-tabs{ border-color:#264452 !important; }#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td.ui-datepicker-today a,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td.ui-datepicker-today a:hover,body #booked-profile-page input[type=submit].button-primary,body table.booked-calendar input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-modal input[type=submit].button-primary,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,body #booked-profile-page .booked-profile-appt-list .appt-block.approved .status-block,body #booked-profile-page .appt-block .google-cal-button > a,body .booked-modal p.booked-title-bar,body table.booked-calendar td:hover .date span,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover,.booked-ms-modal .booked-book-appt /* Multi-Slot Booking */{ background:#56C477; }body #booked-profile-page input[type=submit].button-primary,body table.booked-calendar input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-modal input[type=submit].button-primary,body #booked-profile-page .appt-block .google-cal-button > a,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover{ border-color:#56C477; }body .booked-modal .bm-window p i.fa,body .booked-modal .bm-window a,body .booked-appt-list .booked-public-appointment-title,body .booked-modal .bm-window p.appointment-title,.booked-ms-modal.visible:hover .booked-book-appt{ color:#56C477; }.booked-appt-list .timeslot.has-title .booked-public-appointment-title { color:inherit; }</style><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Element Pack &raquo; Feed" href="http://192.168.1.100/element-pack/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Element Pack &raquo; Comments Feed" href="http://192.168.1.100/element-pack/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Element Pack &raquo; iCal Feed" href="http://192.168.1.100/element-pack/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/192.168.1.100\/element-pack\/wp-includes\/js\/wp-emoji.js?ver=4.9.5","twemoji":"http:\/\/192.168.1.100\/element-pack\/wp-includes\/js\/twemoji.js?ver=4.9.5"}};
+			( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Check if two sets of Emoji characters render the same.
+	 *
+	 * @param set1 array Set of Emoji characters.
+	 * @param set2 array Set of Emoji characters.
+	 * @returns {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set2 ), 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "flag" or "emoji".
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var isIdentical;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 56826, 55356, 56819 ],
+					[ 55356, 56826, 8203, 55356, 56819 ]
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ],
+					[ 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ]
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * Emoji allows people of all gender levitate and so does WordPress.
+				 *
+				 * To test for support, try to render a new emoji (woman in business suit levitating),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (person in business suit levitating + female sign).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[55357, 56692, 8205, 9792, 65039],
+					[55357, 56692, 8203, 9792, 65039]
+				);
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='layerslider-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900,400%7CNunito:300,regular,200,600&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='element-pack-site-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-site.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.14-6684' type='text/css' media='screen' />
+<link rel='stylesheet' id='booked-icons-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/css/icons.css?ver=2.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-tooltipster-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster.css?ver=3.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-tooltipster-theme-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/js/tooltipster/css/themes/tooltipster-light.css?ver=3.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-animations-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/css/animations.css?ver=2.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-styles-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/css/styles.css?ver=2.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='booked-responsive-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/css/responsive.css?ver=2.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='quform-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/quform/cache/quform.css?ver=1524022869' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.5.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//192.168.1.100/element-pack/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//192.168.1.100/element-pack/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.1.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//192.168.1.100/element-pack/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dlm-frontend-css'  href='http://192.168.1.100/element-pack/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css'  href='http://192.168.1.100/element-pack/wp-content/themes/quick/css/theme.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='quick-style-css'  href='http://192.168.1.100/element-pack/wp-content/themes/quick/style.css?ver=1.0.0' type='text/css' media='all' />
+<style id='quick-style-inline-css' type='text/css'>
+/* WP Customizer start */
+.tm-toolbar, .tm-toolbar a, .tm-toolbar .uk-subnav>*>:first-child { color: #bde8fd; }
+.tm-toolbar a:hover, .tm-toolbar .uk-subnav>*>a:hover, .tm-toolbar .uk-subnav>*>a:focus, .tm-toolbar .uk-subnav>.uk-active>a { color: #ffffff; }
+.tm-toolbar { background-color: #14ABF4; }
+.tm-toolbar .uk-subnav-divider>:nth-child(n+2):not(.uk-first-column)::before { border-color: #3ad1ff; }
+body { color: #666666; }
+a, .uk-link, .uk-text-primary, .uk-alert-primary, .swiper-pagination-bullet-active { color: #14ABF4; }
+.uk-button-primary, .uk-section-primary, .uk-background-primary, .uk-card-primary, .uk-label, .bdt-heading-style-yes .bdt-heading-wrapper:before, .bdt-owl-carousel .bdt-oc-tags a, .uk-subnav-pill > .uk-active > a, .uk-navbar-nav>li.uk-active>a::after, .uk-navbar-dropdown-nav > li.uk-active > a:before, .tm-header .uk-navbar-dropdown ul.uk-navbar-dropdown-nav ul li.uk-active a:before, .tm-sidebar .widget .uk-panel .uk-card-title:before, .tm-bottom .widget .uk-panel .uk-card-title:before, .gallery .gallery-icon a:hover:before, .bdt-service-grid .bdt-service-grid-item-wrapper .bdt-service-grid-icon, .bdt-service-carousel .bdt-service-carousel-item .bdt-service-carousel-icon, .bdt-post-block-modern .bdt-pbm-desc ul.bdt-pbm-meta li a, html body table.booked-calendar td.today:hover .date span { background-color: #14ABF4; }
+.uk-input:focus, .uk-select:focus, .uk-textarea:focus, .woocommerce input.input-text:focus, .woocommerce select:focus, .woocommerce #review_form #respond textarea:focus, .woocommerce form .form-row select:focus, .woocommerce form .form-row textarea:focus, .tm-bottom.uk-section-custom .uk-button-default:hover, .uk-navbar-nav>li:hover>a, .uk-navbar-nav>li>a:focus, .uk-navbar-nav>li>a.uk-open, .uk-navbar-nav>li.uk-active>a, .bdt-post-carousel .bdt-pc-desc, blockquote, body table.booked-calendar td.today .date span { border-color: #14ABF4; }
+.bdt-progress-pie svg path { stroke: #14ABF4; }
+a:hover, .uk-link:hover, .uk-text-primary:hover, .uk-alert-primary:hover { color: #0B9CE5; }
+.uk-button-primary:hover, .uk-button-primary:active, .uk-button-primary.uk-active, .uk-button-primary:focus, .bdt-owl-carousel .bdt-oc-tags a:hover, .bdt-service-grid .bdt-service-grid-item-wrapper .bdt-service-grid-icon:hover, .post-link a:hover, .post-quote a:hover, .bdt-service-carousel .bdt-service-carousel-item .bdt-service-carousel-icon:hover { background-color: #0B9CE5; }
+.uk-text-secondary, .uk-alert-secondary { color: #222222; }
+.uk-button-secondary, .uk-section-secondary, .uk-background-secondary, .uk-card-secondary { background-color: #222222; }
+.uk-text-muted, .uk-alert-muted { color: #999999; }
+.uk-button-muted, .uk-section-muted, .uk-background-muted, .uk-card-muted { background-color: #f8f8f8; }
+.uk-navbar-dropbar, .uk-navbar-dropdown:not(.uk-navbar-dropdown-dropbar), .tm-header .uk-navbar-dropdown:not(.uk-navbar-dropdown-dropbar) .sub-dropdown>ul { background-color: #001547; }
+.uk-navbar-dropdown-grid>:not(.uk-first-column)::before { border-color: #081d4f; }
+.uk-navbar-dropdown-nav>li>a, .uk-nav li>a, .uk-navbar-dropdown-nav .uk-nav-sub a { color: #018ac4; }
+.uk-navbar-dropdown-nav>li>a:hover, .uk-navbar-dropdown-nav>li>a:focus, .uk-navbar-dropdown-nav .uk-nav-sub a:hover, .uk-navbar-dropdown-nav .uk-nav-sub a:focus, .uk-navbar-dropdown-nav>li.uk-active>a, .tm-header .uk-navbar-dropdown .sub-dropdown>ul li.uk-active a, .tm-header .uk-navbar-dropdown ul.uk-navbar-dropdown-nav ul li a:hover, .tm-header .uk-navbar-dropdown ul.uk-navbar-dropdown-nav ul li.uk-active a { color: #14abf4; }
+.tm-bottom.uk-section-custom { background-color: #222222; }
+.tm-bottom.uk-section-custom .uk-grid-divider > :not(.uk-first-column)::before, .tm-bottom.uk-section-custom hr, .tm-bottom.uk-section-custom .uk-hr, .tm-bottom.uk-section-custom .uk-grid-divider.uk-grid-stack>.uk-grid-margin::before { border-color: #2f2f2f; }
+.tm-bottom.uk-section-custom .widget_tag_cloud a { background-color: #272727; }
+.tm-bottom.uk-section-custom, .tm-bottom a, .tm-bottom .uk-link, .tm-bottom .uk-text-primary, .tm-bottom .uk-alert-primary { color: #a5a5a5; }
+.tm-bottom.uk-section-custom .uk-card-title, .tm-bottom.uk-section-custom h3, .tm-bottom a:hover, .tm-bottom .uk-link:hover, .tm-bottom .uk-text-primary:hover, .tm-bottom .uk-alert-primary:hover { color: #f2f2f2; }
+.tm-bottom.uk-section-custom .widget_tag_cloud a { color: #989898; }
+.tm-bottom.uk-section-custom .uk-button-default { border-color: #a5a5a5; }
+.tm-bottom.uk-section-custom .uk-card-title { color: #a5a5a5; }
+.tm-copyright.uk-section-custom { background-color: #2d2629; }
+#cookie-bar { background-color: #ffffff; }
+#cookie-bar { color: #666666; }
+.pg-loading-screen { background-color: #ffffff; }
+.pg-loading-screen { color: #666666; }
+.bdt-spinner > div { background-color: #666666; }
+h1, .uk-h1, h2, .uk-h2, h3, .uk-h3, h4, .uk-h4, h5, .uk-h5, h6, .uk-h6, .largeHeading, .largeHeading h1, .largeHeading h2, .largeHeading h3, .largeHeadingWhite, .largeHeadingWhite h1, .largeHeadingWhite h2, .largeHeadingWhite h3, .mediumHeading, .mediumHeading h1, .mediumHeading h2, .mediumHeading h3, .mediumHeadingThin, .mediumHeadingThin h1, .mediumHeadingThin h2, .mediumHeadingThin h3, .smallHeading, .smallHeading h1, .smallHeading h2, .smallHeading h3, .mediumHeadingWhite, .mediumHeadingWhite h1, .mediumHeadingWhite h2, .mediumHeadingWhite h3, .mediumHeadingBlack, .mediumHeadingBlack h1, .mediumHeadingBlack h2, .mediumHeadingBlack h3, .sup-style1 .mega-hovertitle, .pace.pace-active .pace-progress:before, .charitable-form-header, .charitable-form-header h4 { font-family: Roboto; }
+h1, .uk-h1, h2, .uk-h2, h3, .uk-h3, h4, .uk-h4, h5, .uk-h5, h6, .uk-h6, .largeHeading, .largeHeading h1, .largeHeading h2, .largeHeading h3, .largeHeadingWhite, .largeHeadingWhite h1, .largeHeadingWhite h2, .largeHeadingWhite h3, .mediumHeading, .mediumHeading h1, .mediumHeading h2, .mediumHeading h3, .mediumHeadingThin, .mediumHeadingThin h1, .mediumHeadingThin h2, .mediumHeadingThin h3, .smallHeading, .smallHeading h1, .smallHeading h2, .smallHeading h3, .mediumHeadingWhite, .mediumHeadingWhite h1, .mediumHeadingWhite h2, .mediumHeadingWhite h3, .mediumHeadingBlack, .mediumHeadingBlack h1, .mediumHeadingBlack h2, .mediumHeadingBlack h3, .sup-style1 .mega-hovertitle, .pace.pace-active .pace-progress:before, .charitable-form-header, .charitable-form-header h4 { font-weight: 700; }
+body { font-family: Open Sans; }
+body { font-weight: 400; }
+.uk-navbar-nav > li > a { font-family: Roboto; }
+.uk-navbar-nav > li > a { font-weight: 600; }
+.uk-navbar-dropdown-nav>li>a, .uk-nav li>a, .uk-navbar-dropdown-nav .uk-nav-sub a { font-family: Open Sans; }
+.uk-navbar-dropdown-nav>li>a, .uk-nav li>a, .uk-navbar-dropdown-nav .uk-nav-sub a { font-weight: 600; }
+/* WP Customizer end */
+</style>
+<link rel='stylesheet' id='quick-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A700%2C100%2C300%2C400i%2C600%7COpen+Sans%3A400%2C300%2C400i%2C600%2C700%2C&#038;subset=latin&#038;ver=4.9.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.7.0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.7.0'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.7.0'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.5.1'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.5.1'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/themes/quick/inc/vendor/uikit/js/uikit.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/particles.js?ver=2.0.0'></script>
+<meta name="generator" content="Powered by LayerSlider 6.7.0 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel='https://api.w.org/' href='http://192.168.1.100/element-pack/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://192.168.1.100/element-pack/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://192.168.1.100/element-pack/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.5" />
+<meta name="generator" content="WooCommerce 3.1.2" />
+<style type='text/css'> .ae_data .elementor-editor-element-setting {
+                        display:none !important;
+                }
+                </style><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="http://192.168.1.100/element-pack"><link rel="https://theeventscalendar.com/" href="http://192.168.1.100/element-pack/wp-json/tribe/events/v1/" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<!-- BEGIN recaptcha, injected by plugin wp-recaptcha-integration  -->
+
+<!-- END recaptcha -->
+
+		<meta name="theme-color" content="#14abf4">
+		<meta name="msapplication-navbutton-color" content="#14abf4">
+
+		<link href="http://192.168.1.100/element-pack/wp-content/themes/quick/images/favicon.png" sizes="152x152" rel="apple-touch-icon-precomposed">
+
+		<link rel="icon" href="http://192.168.1.100/element-pack/wp-content/uploads/2017/12/cropped-elementor-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://192.168.1.100/element-pack/wp-content/uploads/2017/12/cropped-elementor-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://192.168.1.100/element-pack/wp-content/uploads/2017/12/cropped-elementor-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="http://192.168.1.100/element-pack/wp-content/uploads/2017/12/cropped-elementor-favicon-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+		<style type="text/css" id="wp-custom-css">
+			.tm-copyright-menu {
+    padding: 0 30px 0 30px;
+}
+.tm-logo-text {
+	color: #fff !important;
+}		</style>
+	</head>
+
+<body class="error404 tribe-no-js hfeed layout-default navbar-style1 header-mode-horizontal-center  columns- elementor-default">
+    
+    
+				
+
+											
+				<div class="tm-header-wrapper">
+					
+
+					<div class="tm-header-mobile uk-hidden@m">
+						<div class="tm-header-mobile uk-hidden@m uk-box-shadow-special">
+    <nav class="uk-navbar-container" uk-navbar>
+
+                <div class="uk-navbar-left">
+
+                        <a class="uk-navbar-toggle" href="#tm-mobile" uk-toggle>
+                <span uk-navbar-toggle-icon></span>
+                            </a>
+            
+            
+            
+        </div>
+        
+                <div class="uk-navbar-center">
+            
+<a href="http://192.168.1.100/element-pack/" class="uk-logo uk-navbar-item uk-background-primary tm-logo-text" itemprop="url">
+            Element Pack    </a>        </div>
+        
+        
+    </nav>
+
+            <div class="tm-header-shadow">
+            <div></div>
+        </div>
+    
+                    <div id="tm-mobile" uk-offcanvas mode="slide" overlay>
+            <div class="uk-offcanvas-bar">
+                <div class="uk-panel offcanvas-search"><div class="panel-content">
+<form action="http://192.168.1.100/element-pack/" method="get" role="search" class="uk-search uk-search-default uk-width-1-1">
+    <span uk-search-icon></span>
+    <input id="search-form-5aefe91b008ff" name="s" placeholder="Search..." type="search" class="uk-search-input">
+</form><hr></div></div>
+<ul id="nav-offcanvas" class="uk-nav uk-nav-parent-icon" uk-nav><li style="" data-id="24" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/">Home</a></li><li style="" data-menu-columns="6" data-id="26" full_width="1" class="uk-parent has_columns"><a href="#elements">Elements</a><ul><li style="" data-id="9623" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="separator-text">Post Widgets (13)</a><ul><li style="" data-id="4829" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/carousel/">Carousel</a></li><li style="" data-id="27304" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/faq/">FAQ</a></li><li style="" data-id="11619" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/news-ticker/">News Ticker</a></li><li style="" data-id="6954" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-slider/">Post Slider</a></li><li style="" data-id="1030" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-card/">Post Card</a></li><li style="" data-id="23937" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/post-grid/">Post Grid</a></li><li style="" data-id="8520" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-gallery/">Post Gallery</a></li><li style="" data-id="7188" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-block/">Post Block</a></li><li style="" data-id="889" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-block-modern/">Post Block Modern</a></li><li style="" data-id="2008" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/testimonial-slider/">Testimonial Slider</a></li><li style="" data-id="3696" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/testimonial-carousel/">Testimonial Carousel</a></li><li style="" data-id="9616" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/thumb-gallery/">Thumb Gallery</a></li><li style="" data-id="18863" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/timeline/">Timeline</a></li></ul></li><li style="" data-id="9625" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="separator-text">Custom Content Widgets (17)</a><ul><li style="" data-id="19835" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/accordion/">Accordion</a></li><li style="" data-id="19590" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/advanced-image-gallery/">Advanced Image Gallery</a></li><li style="" data-id="6637" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/custom-carousel/">Custom Carousel</a></li><li style="" data-id="9260" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/custom-gallery/">Custom Gallery</a></li><li style="" data-id="26102" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/comment/">Comment</a></li><li style="" data-id="23385" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/device-slider/">Device Slider</a></li><li style="" data-id="17576" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/flip-box/">Flip Box</a></li><li style="" data-id="792" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/panel-slider/">Panel Slider</a></li><li style="" data-id="1436" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/pricing-table/">Pricing Table</a></li><li style="" data-id="1671" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/price-list/">Pricing List</a></li><li style="" data-id="3408" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/modal/">Modal</a></li><li style="" data-id="20062" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/navbar/">Navbar</a></li><li style="" data-id="702" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/slider/">Slider</a></li><li style="" data-id="5540" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/slideshow/">Slideshow</a></li><li style="" data-id="24630" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/switcher/">Switcher</a></li><li style="" data-id="21052" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/tabs/">Tabs</a></li><li style="" data-id="24333" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/toggle/">Toggle</a></li></ul></li><li style="" data-id="9630" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="separator-text">Others Widgets (23)</a><ul><li style="" data-id="23975" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/advanced-button/">Advanced Button</a></li><li style="" data-id="12469" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/advanced-heading/">Advanced Heading</a></li><li style="" data-id="27307" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/advanced-google-map/">Advanced Google Map</a></li><li style="" data-id="27308" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/animated-heading/">Animated Heading</a></li><li style="" data-id="27309" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/audio-player/">Audio Player</a></li><li style="" data-id="27310" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/call-out/">Call out</a></li><li style="" data-id="27311" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/countdown/">Countdown</a></li><li style="" data-id="27312" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/dropbar/">Dropbar</a></li><li style="" data-id="27313" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/icon-nav/">Icon Nav</a></li><li style="" data-id="27314" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/image-compare/">Image compare</a></li><li style="" data-id="27315" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/member/">Member</a></li><li style="" data-id="27316" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/marker/">Marker</a></li><li style="" data-id="27317" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/offcanvas/">Offcanvas</a></li><li style="" data-id="27318" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/progress-pie/">Progress pie</a></li><li style="" data-id="27319" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/search/">Search</a></li><li style="" data-id="27320" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/scroll-button/">Scroll Button</a></li><li style="" data-id="27321" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/social-share/">Social share</a></li><li style="" data-id="27322" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/trailer-box/">Trailer Box</a></li><li style="" data-id="27323" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/table/">Table</a></li><li style="" data-id="27324" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/user-login/">User Login</a></li><li style="" data-id="27325" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/qr-code/">QR Code</a></li><li style="" data-id="27326" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/video-player/">Video Player</a></li><li style="" data-id="27327" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/weather/">Weather</a></li></ul></li><li style="" data-id="27346" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="separator-text">3rd Party Plugin Widgets (19)</a><ul><li style="" data-id="27328" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/booked-calendar/">Booked Calendar</a></li><li style="" data-id="27329" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/bbpress/">bbPress</a></li><li style="" data-id="27330" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/contact-form-7/">Contact Form 7</a></li><li style="" data-id="27331" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/caldera-form/">Caldera Form</a></li><li style="" data-id="27333" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/download-monitor/">Download Monitor</a></li><li style="" data-id="27334" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/event-calendar-countdown/">Event Calendar Countdown</a></li><li style="" data-id="27335" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/instagram-feed/">Instagram Feed</a></li><li style="" data-id="27336" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/layer-slider/">Layer Slider</a></li><li style="" data-id="27337" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/mailchimp/">Mailchimp</a></li><li style="" data-id="27332" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/ninja-forms/">Ninja Forms</a></li><li style="" data-id="27339" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/quform/">QuForm</a></li><li style="" data-id="27338" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/revolution-slider/">Revolution Slider</a></li><li style="" data-id="27340" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/wp-forms/">WP Forms</a></li><li style="" data-id="27341" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/woocommerce-cart-page/">WooCommerce Cart Page</a></li><li style="" data-id="27342" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/woocommerce-categories/">WooCommerce Categories</a></li><li style="" data-id="27343" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/woocommerce-checkout-page/">WooCommerce Checkout Page</a></li><li style="" data-id="27344" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/woocommerce-products/">WooCommerce Products</a></li><li style="" data-id="27345" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/tracking-form/">WooCommerce Tracking Form</a></li></ul></li><li style="" data-id="27347" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="separator-text">Elementor Extend (7)</a><ul><li style="" data-id="27354" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/element-parallax/">Element Parallax</a></li><li style="" data-id="27348" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/parallax-background/">Parallax Background</a></li><li style="" data-id="27349" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/parallax-section/">Parallax Section</a></li><li style="" data-id="27350" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/section-particles/">Section Particles</a></li><li style="" data-id="27351" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/scrollnav/">Scrollnav</a></li><li style="" data-id="27352" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/schedule-content/">Schedule Content</a></li><li style="" data-id="27353" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/sticky-section/">Sticky Section</a></li></ul></li><li style="" data-id="27355" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="separator-text">Upcoming Widgets</a><ul><li style="" data-id="27356" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">Ajax Search</a></li><li style="" data-id="27357" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">Alert</a></li><li style="" data-id="27358" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">Bookly</a></li><li style="" data-id="27359" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">BuddyPress</a></li><li style="" data-id="27360" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">Document Viewer</a></li><li style="" data-id="27361" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">FormCraft</a></li><li style="" data-id="27362" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">Header Footer</a></li><li style="" data-id="27363" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">NextGEN Gallery</a></li><li style="" data-id="27364" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">Master Slider</a></li><li style="" data-id="27365" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">WooCommerce Wishlist</a></li><li style="" data-id="27366" dropdown_style="bottom-left"><a href="#"  class=" seperator" data-type="header">wpDataTables</a></li></ul></li></ul></li><li style="" data-menu-columns="2" data-id="27388" dropdown_style="bottom-center" class="uk-parent has_columns"><a href="#"  class=" seperator" data-type="separator-text">Ready Demo</a><ul><li style="" data-id="27370" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/app-landing-page/">App Landing Page</a></li><li style="" data-id="27367" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/agency-homepage-1/">Agency Homepage 1</a></li><li style="" data-id="27368" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/agency-homepage-2/">Agency Homepage 2</a></li><li style="" data-id="27369" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/agency-homepage-3/">Agency Homepage 3</a></li><li style="" data-id="27372" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/body-fitness-page/">Body Fitness Page</a></li><li style="" data-id="27371" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/beauty-salon-services-page/">Beauty Salon Services Page</a></li><li style="" data-id="27373" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/business-homepage/">Business Homepage</a></li><li style="" data-id="27374" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/business-homepage-2/">Business Homepage 2</a></li><li style="" data-id="27375" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/business-plan-page/">Business Plan Page</a></li><li style="" data-id="27376" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/clean-services-page/">Clean Services Page</a></li><li style="" data-id="27377" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/construction-services/">Construction Services</a></li><li style="" data-id="27378" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/corporate-homepage/">Corporate Homepage</a></li><li style="" data-id="27379" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/event-management-1/">Event Management 1</a></li><li style="" data-id="27380" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/event-management-2/">Event Management 2</a></li><li style="" data-id="27381" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/food-park-recipes/">Food Park Recipes</a></li><li style="" data-id="27382" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/ready-demo/good-food-item/">Good Food Item</a></li><li style="" data-id="27383" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/gymkhana-homepage/">Gymkhana Homepage</a></li><li style="" data-id="27384" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/medical-services-page/">Medical Services Page</a></li><li style="" data-id="27385" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/ready-demo/medical-services-page-2/">Medical Services Page 2</a></li><li style="" data-id="27386" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/online-courses-page/">Online Courses Page</a></li><li style="" data-id="27387" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/online-watch-shop-page/">Online Watch Shop Page</a></li></ul></li><li style="" data-menu-columns="2" data-id="27391" dropdown_style="bottom-center" class="uk-parent has_columns"><a href="#"  class=" seperator" data-type="separator-text">Ready Blocks</a><ul><li style="" data-id="27404" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/call-to-action-blocks/">Call to Action Blocks</a></li><li style="" data-id="27405" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/coming-soon-blocks/">Coming Soon Blocks</a></li><li style="" data-id="27406" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/contact-form-blocks/">Contact Form Blocks</a></li><li style="" data-id="27407" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/core-features-blocks/">Core Features Blocks</a></li><li style="" data-id="27392" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/extra-features-blocks/">Extra Features Blocks</a></li><li style="" data-id="27393" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/featured-blocks/">Featured Blocks</a></li><li style="" data-id="27394" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/hero-blocks/">Hero Blocks</a></li><li style="" data-id="27395" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/login-blocks/">Login Blocks</a></li><li style="" data-id="27396" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/navigation-blocks/">Navigation Blocks</a></li><li style="" data-id="27397" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/newsletter-form-blocks/">Newsletter Form Blocks</a></li><li style="" data-id="27398" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/pricing-table-blocks/">Pricing Table Blocks</a></li><li style="" data-id="27399" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/services-blocks/">Services Blocks</a></li><li style="" data-id="27400" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/showcase-blocks/">Showcase Blocks</a></li><li style="" data-id="27401" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/slider-blocks/">Slider Blocks</a></li><li style="" data-id="27402" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/social-share-blocks/">Social Share Blocks</a></li><li style="" data-id="27403" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/team-member-blocks/">Team Member Blocks</a></li></ul></li><li style="" data-id="27389" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/inform-us-what-you-missed/">Missing Something?</a></li><li style="" data-id="27390" dropdown_style="bottom-left"><a href="https://bdthemes.com/support/forum/wordpress-plugins/element-pack-addon-elementor-page-builder-wordpress-plugin/">Support</a></li></ul><hr><div class="offcanvas-widgets"><div id="meta-3" class="widget widget_meta"><div class="uk-panel "><div class="panel-content"><h3 class="uk-card-title">Meta</h3>			<ul>
+			<li><a href="http://192.168.1.100/element-pack/wp-login.php?action=register">Register</a></li>			<li><a href="http://192.168.1.100/element-pack/wp-login.php">Log in</a></li>
+			<li><a href="http://192.168.1.100/element-pack/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://192.168.1.100/element-pack/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</div></div></div>		<div id="recent-posts-3" class="widget widget_recent_entries"><div class="uk-panel "><div class="panel-content">		<h3 class="uk-card-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="http://192.168.1.100/element-pack/a-closer-look-at-adwords-update-to-keyword/">A Closer Look at AdWords’ Update to Keyword</a>
+									</li>
+											<li>
+					<a href="http://192.168.1.100/element-pack/save-time-and-effort-with-facebook-saved-audiences/">Save Time and Effort with Facebook Saved Audiences</a>
+									</li>
+											<li>
+					<a href="http://192.168.1.100/element-pack/responsive-web-design-the-answer-of-today-and-tomorrow/">Responsive Web Design: The Answer of Today and Tomorrow</a>
+									</li>
+					</ul>
+		</div></div></div><div id="custom_html-14" class="widget_text widget widget_custom_html"><div class="widget_text uk-panel "><div class="widget_text panel-content"><div class="textwidget custom-html-widget"><hr class="uk-hr uk-margin">
+<a href="" class="uk-icon-button uk-margin-small-right" uk-icon="twitter"></a>
+<a href="" class="uk-icon-button  uk-margin-small-right" uk-icon="facebook"></a>
+<a href="" class="uk-icon-button" uk-icon="google-plus"></a></div></div></div></div></div>            </div>
+        </div>
+        
+        
+        
+    </div>					</div>
+					
+					
+	<div class="tm-header uk-visible@m">
+				    <div class="uk-navbar-container">
+		        <div class="uk-container uk-container-expand">
+		            <nav class="uk-navbar">
+
+		                <div class="uk-navbar-left">
+		                    
+<a href="http://192.168.1.100/element-pack/" class="uk-logo uk-background-primary uk-navbar-item tm-logo-text" itemprop="url">
+            Element Pack    </a>		                    		                </div>
+
+		                		                <div class="uk-navbar-center">
+		                    <ul id="nav" class="uk-navbar-nav "><li style="" data-id="24" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/">Home</a></li><li style="" data-menu-columns="6" data-id="26" full_width="1" class="uk-parent has_columns" data-style=""><a href="#elements">Elements</a><div class="uk-navbar-dropdown" uk-dropdown="pos: bottom-justify; boundary: .uk-navbar-container&gt;.uk-container&gt;nav; boundary-align: true; offset: 25;"><div class="uk-navbar-dropdown-grid uk-grid-divider uk-child-width-1-6@s" uk-grid=""><div><ul class="uk-nav uk-navbar-dropdown-nav"><li style="" data-id="9623" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="separator-text">Post Widgets (13)</a><ul><li style="" data-id="4829" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/carousel/">Carousel</a></li><li style="" data-id="27304" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/faq/">FAQ</a></li><li style="" data-id="11619" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/news-ticker/">News Ticker</a></li><li style="" data-id="6954" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-slider/">Post Slider</a></li><li style="" data-id="1030" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-card/">Post Card</a></li><li style="" data-id="23937" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/post-grid/">Post Grid</a></li><li style="" data-id="8520" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-gallery/">Post Gallery</a></li><li style="" data-id="7188" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-block/">Post Block</a></li><li style="" data-id="889" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/post-block-modern/">Post Block Modern</a></li><li style="" data-id="2008" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/testimonial-slider/">Testimonial Slider</a></li><li style="" data-id="3696" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/testimonial-carousel/">Testimonial Carousel</a></li><li style="" data-id="9616" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/thumb-gallery/">Thumb Gallery</a></li><li style="" data-id="18863" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/timeline/">Timeline</a></li></ul></li></ul></div><div><ul class="level2 uk-nav uk-navbar-dropdown-nav"><li style="" data-id="9625" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="separator-text">Custom Content Widgets (17)</a><ul><li style="" data-id="19835" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/accordion/">Accordion</a></li><li style="" data-id="19590" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/advanced-image-gallery/">Advanced Image Gallery</a></li><li style="" data-id="6637" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/custom-carousel/">Custom Carousel</a></li><li style="" data-id="9260" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/custom-gallery/">Custom Gallery</a></li><li style="" data-id="26102" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/comment/">Comment</a></li><li style="" data-id="23385" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/device-slider/">Device Slider</a></li><li style="" data-id="17576" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/flip-box/">Flip Box</a></li><li style="" data-id="792" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/panel-slider/">Panel Slider</a></li><li style="" data-id="1436" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/pricing-table/">Pricing Table</a></li><li style="" data-id="1671" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/price-list/">Pricing List</a></li><li style="" data-id="3408" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/modal/">Modal</a></li><li style="" data-id="20062" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/navbar/">Navbar</a></li><li style="" data-id="702" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/slider/">Slider</a></li><li style="" data-id="5540" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/slideshow/">Slideshow</a></li><li style="" data-id="24630" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/switcher/">Switcher</a></li><li style="" data-id="21052" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/tabs/">Tabs</a></li><li style="" data-id="24333" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/toggle/">Toggle</a></li></ul></li></ul></div><div><ul class="level2 uk-nav uk-navbar-dropdown-nav"><li style="" data-id="9630" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="separator-text">Others Widgets (23)</a><ul><li style="" data-id="23975" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/advanced-button/">Advanced Button</a></li><li style="" data-id="12469" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/advanced-heading/">Advanced Heading</a></li><li style="" data-id="27307" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/advanced-google-map/">Advanced Google Map</a></li><li style="" data-id="27308" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/animated-heading/">Animated Heading</a></li><li style="" data-id="27309" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/audio-player/">Audio Player</a></li><li style="" data-id="27310" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/call-out/">Call out</a></li><li style="" data-id="27311" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/countdown/">Countdown</a></li><li style="" data-id="27312" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/dropbar/">Dropbar</a></li><li style="" data-id="27313" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/icon-nav/">Icon Nav</a></li><li style="" data-id="27314" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/image-compare/">Image compare</a></li><li style="" data-id="27315" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/member/">Member</a></li><li style="" data-id="27316" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/marker/">Marker</a></li><li style="" data-id="27317" dropdown_style="bottom-left" class="updated"><a href="http://192.168.1.100/element-pack/elements/offcanvas/">Offcanvas</a></li><li style="" data-id="27318" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/progress-pie/">Progress pie</a></li><li style="" data-id="27319" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/search/">Search</a></li><li style="" data-id="27320" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/scroll-button/">Scroll Button</a></li><li style="" data-id="27321" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/social-share/">Social share</a></li><li style="" data-id="27322" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/trailer-box/">Trailer Box</a></li><li style="" data-id="27323" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/table/">Table</a></li><li style="" data-id="27324" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/user-login/">User Login</a></li><li style="" data-id="27325" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/qr-code/">QR Code</a></li><li style="" data-id="27326" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/video-player/">Video Player</a></li><li style="" data-id="27327" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/weather/">Weather</a></li></ul></li></ul></div><div><ul class="level2 uk-nav uk-navbar-dropdown-nav"><li style="" data-id="27346" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="separator-text">3rd Party Plugin Widgets (19)</a><ul><li style="" data-id="27328" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/booked-calendar/">Booked Calendar</a></li><li style="" data-id="27329" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/bbpress/">bbPress</a></li><li style="" data-id="27330" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/contact-form-7/">Contact Form 7</a></li><li style="" data-id="27331" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/caldera-form/">Caldera Form</a></li><li style="" data-id="27333" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/download-monitor/">Download Monitor</a></li><li style="" data-id="27334" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/event-calendar-countdown/">Event Calendar Countdown</a></li><li style="" data-id="27335" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/instagram-feed/">Instagram Feed</a></li><li style="" data-id="27336" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/layer-slider/">Layer Slider</a></li><li style="" data-id="27337" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/mailchimp/">Mailchimp</a></li><li style="" data-id="27332" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/ninja-forms/">Ninja Forms</a></li><li style="" data-id="27339" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/quform/">QuForm</a></li><li style="" data-id="27338" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/revolution-slider/">Revolution Slider</a></li><li style="" data-id="27340" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/wp-forms/">WP Forms</a></li><li style="" data-id="27341" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/woocommerce-cart-page/">WooCommerce Cart Page</a></li><li style="" data-id="27342" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/woocommerce-categories/">WooCommerce Categories</a></li><li style="" data-id="27343" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/woocommerce-checkout-page/">WooCommerce Checkout Page</a></li><li style="" data-id="27344" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/woocommerce-products/">WooCommerce Products</a></li><li style="" data-id="27345" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/tracking-form/">WooCommerce Tracking Form</a></li></ul></li></ul></div><div><ul class="level2 uk-nav uk-navbar-dropdown-nav"><li style="" data-id="27347" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="separator-text">Elementor Extend (7)</a><ul><li style="" data-id="27354" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/element-parallax/">Element Parallax</a></li><li style="" data-id="27348" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/parallax-background/">Parallax Background</a></li><li style="" data-id="27349" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/elements/parallax-section/">Parallax Section</a></li><li style="" data-id="27350" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/section-particles/">Section Particles</a></li><li style="" data-id="27351" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/scrollnav/">Scrollnav</a></li><li style="" data-id="27352" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/elements/schedule-content/">Schedule Content</a></li><li style="" data-id="27353" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/sticky-section/">Sticky Section</a></li></ul></li></ul></div><div><ul class="level2 uk-nav uk-navbar-dropdown-nav"><li style="" data-id="27355" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="separator-text">Upcoming Widgets</a><ul><li style="" data-id="27356" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">Ajax Search</a></li><li style="" data-id="27357" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">Alert</a></li><li style="" data-id="27358" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">Bookly</a></li><li style="" data-id="27359" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">BuddyPress</a></li><li style="" data-id="27360" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">Document Viewer</a></li><li style="" data-id="27361" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">FormCraft</a></li><li style="" data-id="27362" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">Header Footer</a></li><li style="" data-id="27363" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">NextGEN Gallery</a></li><li style="" data-id="27364" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">Master Slider</a></li><li style="" data-id="27365" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">WooCommerce Wishlist</a></li><li style="" data-id="27366" dropdown_style="bottom-left"><a href="#" class=" seperator" data-type="header">wpDataTables</a></li></ul></li></ul></div></div></div></li><li style="" data-menu-columns="2" data-id="27388" dropdown_style="bottom-center" class="uk-parent has_columns" data-style=""><a href="#" class=" seperator" data-type="separator-text">Ready Demo</a><div class="uk-navbar-dropdown uk-navbar-dropdown-width-2" uk-dropdown="pos: bottom-center; boundary: .uk-navbar-container; offset: 25;"><div class="uk-navbar-dropdown-grid uk-child-width-1-2@s" uk-grid=""><div><ul class="uk-nav uk-navbar-dropdown-nav"><li style="" data-id="27370" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/app-landing-page/">App Landing Page</a></li><li style="" data-id="27367" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/agency-homepage-1/">Agency Homepage 1</a></li><li style="" data-id="27368" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/agency-homepage-2/">Agency Homepage 2</a></li><li style="" data-id="27369" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/agency-homepage-3/">Agency Homepage 3</a></li><li style="" data-id="27372" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/body-fitness-page/">Body Fitness Page</a></li><li style="" data-id="27371" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/beauty-salon-services-page/">Beauty Salon Services Page</a></li><li style="" data-id="27373" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/business-homepage/">Business Homepage</a></li><li style="" data-id="27374" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/business-homepage-2/">Business Homepage 2</a></li><li style="" data-id="27375" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/business-plan-page/">Business Plan Page</a></li><li style="" data-id="27376" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/clean-services-page/">Clean Services Page</a></li><li style="" data-id="27377" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/construction-services/">Construction Services</a></li></ul></div><div><ul class="level2 uk-nav uk-navbar-dropdown-nav"><li style="" data-id="27378" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/corporate-homepage/">Corporate Homepage</a></li><li style="" data-id="27379" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/event-management-1/">Event Management 1</a></li><li style="" data-id="27380" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/event-management-2/">Event Management 2</a></li><li style="" data-id="27381" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/food-park-recipes/">Food Park Recipes</a></li><li style="" data-id="27382" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/ready-demo/good-food-item/">Good Food Item</a></li><li style="" data-id="27383" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/gymkhana-homepage/">Gymkhana Homepage</a></li><li style="" data-id="27384" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/medical-services-page/">Medical Services Page</a></li><li style="" data-id="27385" dropdown_style="bottom-left" class="new"><a href="http://192.168.1.100/element-pack/ready-demo/medical-services-page-2/">Medical Services Page 2</a></li><li style="" data-id="27386" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/online-courses-page/">Online Courses Page</a></li><li style="" data-id="27387" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-demo/online-watch-shop-page/">Online Watch Shop Page</a></li></ul></div></div></div></li><li style="" data-menu-columns="2" data-id="27391" dropdown_style="bottom-center" class="uk-parent has_columns" data-style=""><a href="#" class=" seperator" data-type="separator-text">Ready Blocks</a><div class="uk-navbar-dropdown uk-navbar-dropdown-width-2" uk-dropdown="pos: bottom-center; boundary: .uk-navbar-container; offset: 25;"><div class="uk-navbar-dropdown-grid uk-child-width-1-2@s" uk-grid=""><div><ul class="uk-nav uk-navbar-dropdown-nav"><li style="" data-id="27404" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/call-to-action-blocks/">Call to Action Blocks</a></li><li style="" data-id="27405" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/coming-soon-blocks/">Coming Soon Blocks</a></li><li style="" data-id="27406" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/contact-form-blocks/">Contact Form Blocks</a></li><li style="" data-id="27407" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/core-features-blocks/">Core Features Blocks</a></li><li style="" data-id="27392" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/extra-features-blocks/">Extra Features Blocks</a></li><li style="" data-id="27393" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/featured-blocks/">Featured Blocks</a></li><li style="" data-id="27394" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/hero-blocks/">Hero Blocks</a></li><li style="" data-id="27395" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/login-blocks/">Login Blocks</a></li></ul></div><div><ul class="level2 uk-nav uk-navbar-dropdown-nav"><li style="" data-id="27396" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/navigation-blocks/">Navigation Blocks</a></li><li style="" data-id="27397" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/newsletter-form-blocks/">Newsletter Form Blocks</a></li><li style="" data-id="27398" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/pricing-table-blocks/">Pricing Table Blocks</a></li><li style="" data-id="27399" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/services-blocks/">Services Blocks</a></li><li style="" data-id="27400" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/showcase-blocks/">Showcase Blocks</a></li><li style="" data-id="27401" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/slider-blocks/">Slider Blocks</a></li><li style="" data-id="27402" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/social-share-blocks/">Social Share Blocks</a></li><li style="" data-id="27403" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/ready-section/team-member-blocks/">Team Member Blocks</a></li></ul></div></div></div></li><li style="" data-id="27389" dropdown_style="bottom-left"><a href="http://192.168.1.100/element-pack/inform-us-what-you-missed/">Missing Something?</a></li><li style="" data-id="27390" dropdown_style="bottom-left"><a href="https://bdthemes.com/support/forum/wordpress-plugins/element-pack-addon-elementor-page-builder-wordpress-plugin/">Support</a></li></ul>		                    		                </div>
+		                
+		                		                <div class="uk-navbar-right">
+		                     
+							
+		                    
+							
+															<div class="uk-navbar-item">
+							    	
+
+    <a class="uk-search-icon uk-padding-remove-horizontal" href="#" uk-search-icon></a>
+    <div class="uk-navbar-dropdown uk-width-medium"  uk-drop="{&quot;mode&quot;:&quot;click&quot;,&quot;cls-drop&quot;:&quot;uk-navbar-dropdown&quot;,&quot;boundary&quot;:&quot;!nav&quot;,&quot;pos&quot;:&quot;bottom-right&quot;,&quot;flip&quot;:&quot;x&quot;,&quot;offset&quot;:28}">
+        <div class="uk-grid uk-grid-small uk-flex-middle">
+            <div class="uk-width-expand">
+               <form action="http://192.168.1.100/element-pack/" method="get" role="search"  class="uk-search uk-search-default uk-search-navbar uk-width-1-1">
+                   <span uk-search-icon></span>
+                   <input id="search-form-5aefe91b7bfbb" name="s" placeholder="Search..." type="search" class="uk-search-input">
+               </form>
+            </div>
+            <div class="uk-width-auto">
+                <a class="uk-navbar-dropdown-close" href="#" uk-close></a>
+            </div>
+        </div>
+
+    </div>
+
+							    </div>
+							
+									                </div>
+		                		            </nav>
+		        </div>
+		    </div>
+					
+			</div>
+				</div>
+
+									
+	
+					
+					<div id="search-form-5aefe91b7bfbb" class="tm-titlebar uk-section uk-section-muted uk-section-medium">
+				<div class="uk-container">
+					<div class="uk-grid" uk-grid>
+						<div id="title" class="uk-width-expand">
+							<h1 class="uk-margin-small-bottom">Oops, this Page could not be found.</h1>
+							<ul id="tm-breadcrumb" class="uk-breadcrumb uk-margin-remove-top "><li><a href="http://192.168.1.100/element-pack/">Element Pack</a></li>
+<li><span>Error 404</span></li>
+</ul>						</div>
+												<div class="uk-margin-auto-left uk-position-relative uk-width-medium uk-visible@s">
+							<div class="uk-position-center-right">
+								<a class="uk-button purchase-btn" href="https://bdthemes.com/go/element-pack-addon-elementor-page-builder/">Purchase Now</a>
+							</div>
+						</div>
+											</div>
+				</div>
+			</div>
+		
+	
+	
+								
+								
+							
+
+
+<div class="tm-section uk-section uk-section-medium">
+	<div class="uk-container">
+		<div class="uk-grid" uk-grid>
+			
+			<div class="uk-width-expand">
+				<main class="tm-content">
+
+					<section class="error-404 not-found uk-text-center">
+
+
+						<div class="uk-width-auto uk-vertical-align-middle uk-margin-large-bottom uk-margin-large-top uk-box-shadow-medium uk-background-default uk-border-rounded uk-padding-large uk-margin-auto">
+
+							<img src="http://192.168.1.100/element-pack/wp-content/themes/quick/images/404.svg" alt="Page Not Found" width="450" height="238">
+
+							<p class="uk-margin-large-top uk-text-large">The Page you are looking for doesn&#039;t exist or an other error occurred. <a href="javascript:history.go(-1)">Go back</a> or head over to <br class="uk-visible@l"> <a href="http://192.168.1.100/element-pack/">Element Pack</a> homepage to choose a new direction.</p>
+
+						</div>
+
+					</section><!-- .error-404 -->
+
+				</main><!-- #main -->
+			</div><!-- #primary -->
+		</div>
+	</div>
+</div>
+
+	
+					
+	<div id="tmCopyright" class="tm-copyright uk-section uk-section-secondary uk-section-small">
+		<div>
+			<div class="uk-grid uk-child-width-expand@m" uk-grid>
+				<div class="uk-text-center">	
+					<div class="tm-copyright-menu uk-display-inline-block"><ul id="menu-copyright-menu" class="uk-subnav uk-subnav-line uk-margin-small-bottom"><li style="" data-id="4989"><a href="http://bdthemes.com">Main Home</a></li><li style="" data-id="4990"><a href="http://bdthemes.net/demo">Our Demo</a></li><li style="" data-id="4991"><a href="https://bdthemes.com/support/article-categories/element-pack/">Documentation</a></li><li style="" data-id="4992"><a href="https://bdthemes.com/support/forum/wordpress-plugins/element-pack-addon-elementor-page-builder-wordpress-plugin/">Support</a></li><li style="" data-id="4993"><a href="https://bdthemes.com/contact/">Contact</a></li></ul></div>						<div class="copyright-txt">Develop with Passion &amp; Love by <a href="https://www.bdthemes.com">BdThemes Ltd</a></div>
+									</div>
+			</div>
+		</div>
+	</div>
+
+			
+
+	
+	
+	
+	
+
+
+			<a class="tm-totop-scroller" href="#"  uk-totop uk-scroll></a>
+	
+    
+			<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script type='text/javascript'> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};/* ]]> */ </script>
+<!-- BEGIN recaptcha, injected by plugin wp-recaptcha-integration  -->
+<script type="text/javascript">
+		var recaptcha_widgets={};
+		function wp_recaptchaLoadCallback(){
+			try {
+				grecaptcha;
+			} catch(err){
+				return;
+			}
+			var e = document.querySelectorAll ? document.querySelectorAll('.g-recaptcha:not(.wpcf7-form-control)') : document.getElementsByClassName('g-recaptcha'),
+				form_submits;
+
+			for (var i=0;i<e.length;i++) {
+				(function(el){
+					var wid;
+					// check if captcha element is unrendered
+					if ( ! el.childNodes.length) {
+						wid = grecaptcha.render(el,{
+							'sitekey':'6Lcg8EcUAAAAAJOTjKhVEIdWtpdCtyNup0lk_szH',
+							'theme':el.getAttribute('data-theme') || 'light'
+						});
+						el.setAttribute('data-widget-id',wid);
+					} else {
+						wid = el.getAttribute('data-widget-id');
+						grecaptcha.reset(wid);
+					}
+				})(e[i]);
+			}
+		}
+
+		// if jquery present re-render jquery/ajax loaded captcha elements
+		if ( typeof jQuery !== 'undefined' )
+			jQuery(document).ajaxComplete( function(evt,xhr,set){
+				if( xhr.responseText && xhr.responseText.indexOf('6Lcg8EcUAAAAAJOTjKhVEIdWtpdCtyNup0lk_szH') !== -1)
+					wp_recaptchaLoadCallback();
+			} );
+
+		</script><script src="https://www.google.com/recaptcha/api.js?onload=wp_recaptchaLoadCallback&#038;render=explicit" async defer></script>
+<!-- END recaptcha -->
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/js/spin.min.js?ver=2.0.1'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/js/spin.jquery.js?ver=2.0.1'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/js/tooltipster/js/jquery.tooltipster.min.js?ver=3.3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var booked_js_vars = {"ajax_url":"http:\/\/192.168.1.100\/element-pack\/wp-admin\/admin-ajax.php","profilePage":"http:\/\/192.168.1.100\/element-pack","publicAppointments":"","i18n_confirm_appt_delete":"Are you sure you want to cancel this appointment?","i18n_please_wait":"Please wait ...","i18n_wrong_username_pass":"Wrong username\/password combination.","i18n_fill_out_required_fields":"Please fill out all required fields.","i18n_guest_appt_required_fields":"Please enter your name to book an appointment.","i18n_appt_required_fields":"Please enter your name, your email address and choose a password to book an appointment.","i18n_appt_required_fields_guest":"Please fill in all \"Information\" fields.","i18n_password_reset":"Please check your email for instructions on resetting your password.","i18n_password_reset_error":"That username or email is not recognized."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/booked/assets/js/functions.js?ver=2.0.9'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.14-6684'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/192.168.1.100\/element-pack\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"2104603651.3a81a9f.e57cad0cc7b1462abdface15b6810a43"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.4.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var quformL10n = {"pluginUrl":"http:\/\/192.168.1.100\/element-pack\/wp-content\/plugins\/quform","ajaxUrl":"http:\/\/192.168.1.100\/element-pack\/wp-admin\/admin-ajax.php","ajaxError":"Ajax error","errorMessageTitle":"There was a problem","removeFile":"Remove"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/plugins/quform/cache/quform.js?ver=1524022869'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/element-pack\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/element-pack\/wp-content\/uploads\/2018\/01\/intersection.png?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/192.168.1.100\/element-pack\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//192.168.1.100/element-pack/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js?ver=3.1.2'></script>
+<script type='text/javascript' src='//192.168.1.100/element-pack/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js?ver=2.70'></script>
+<script type='text/javascript' src='//192.168.1.100/element-pack/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/element-pack\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/element-pack\/wp-content\/uploads\/2018\/01\/intersection.png?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//192.168.1.100/element-pack/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=3.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/element-pack\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/element-pack\/wp-content\/uploads\/2018\/01\/intersection.png?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_72b6652522e093c786fa5d04d8408abd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//192.168.1.100/element-pack/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/themes/quick/inc/vendor/uikit/js/uikit-icons.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/themes/quick/js/fitvids.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/themes/quick/js/jquery.cookiebar.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-content/themes/quick/js/theme.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://192.168.1.100/element-pack/wp-includes/js/wp-embed.js?ver=4.9.5'></script>
+
+
+	<script>
+	  window.intercomSettings = {
+	    app_id: "julq2hop"
+	  };
+	</script>
+	<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/julq2hop';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+</body>
+</html>
