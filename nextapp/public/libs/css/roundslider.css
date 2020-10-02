@@ -1,0 +1,118 @@
+.round-slider-container {
+    margin-top: 40px;
+    position: relative;
+}
+
+.round-slider-images {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 500px;
+}
+
+.round-slider-images > div {
+    position: absolute;
+    left: 5%;
+    top: 230px;
+    transition: all 1s linear 0s;
+    width: 50px;
+    z-index: 1;
+    opacity: 0;
+    margin-top: 30px;
+}
+
+.round-slider-images div[class^="image-"] {
+    z-index: 60;
+    opacity: 1;
+}
+
+.round-slider-images > div:before {
+    content: '';
+    position: absolute;
+    width: 210px;
+    height: 250px;
+    background-image: url('../images/team-shadow.png');
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    z-index: -1;
+    opacity: 0;
+    transition: all 1s linear 0s;
+}
+
+.round-slider-images > div.image-3:before {
+    opacity: 1;
+    width: 260px;
+    height: 250px;
+}
+
+.round-slider-images .prev-slide, .round-slider-images .image-1 {
+    top: 195px;
+    left: 0%;
+    width: 120px;
+    transform: rotateZ(-22.5deg);
+    margin-left: 10px;
+}
+
+.round-slider-images .image-2 {
+    top: 70px;
+    left: 22%;
+    transform: translateX(-50%) rotateZ(-15deg);
+    width: 140px;
+}
+
+.round-slider-images .image-3 {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 175px;
+    top: 0px;
+    z-index: 90 !important;
+}
+
+.round-slider-images .image-4 {
+    top: 70px;
+    left: 64%;
+    transform: translateX(50%) rotateZ(15deg);
+    width: 140px;
+}
+
+.round-slider-images .next-slide, .round-slider-images .image-5 {
+    top: 195px;
+    left: 87%;
+    transform: rotateZ(22.5deg);
+    width: 120px;
+}
+
+.round-slider-images img {
+    width: 100%;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
+}
+
+.round-slider-images .prev-slide {
+    opacity: 0;
+}
+
+.round-slider-images .next-slide {
+    opacity: 0;
+}
+
+.no-transition {
+    transition: opacity 1s linear 0s !important;
+}
