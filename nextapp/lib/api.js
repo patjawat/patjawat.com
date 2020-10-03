@@ -87,6 +87,7 @@ export async function getAllPostsForHome(preview) {
           }
         }
       }
+      
     }
   `,
     {
@@ -208,4 +209,24 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
   if (data.posts.edges.length > 2) data.posts.edges.pop()
 
   return data
+}
+
+
+
+export async function getAllSettings() {
+  const data = await fetchAPI(`
+
+    query generalSettings {
+      dateFormat
+      description
+      language
+      startOfWeek
+      timeFormat
+      timezone
+      title
+      url
+    }
+
+  `)
+  return data?.posts
 }

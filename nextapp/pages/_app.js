@@ -7,6 +7,7 @@ import LoadingScreen from '../components/loadingScreen'
 // add nprogress module
 import NProgress from 'nprogress';
 import 'nprogress/nprogress.css';
+import NoteProvider from '../components/NoteProvider';
 
 function MyApp({ Component, pageProps }) {
 
@@ -37,10 +38,13 @@ function MyApp({ Component, pageProps }) {
 
   return (
     // <Provider store={store}>
+    <NoteProvider>
       <Layout>
+        
         {loading ? <LoadingScreen /> : ''}
         <Component {...pageProps} />
       </Layout>
+      </NoteProvider>
     // </Provider>
   )
 }
