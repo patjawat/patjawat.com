@@ -4,6 +4,11 @@ import Router from 'next/router';
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import LoadingScreen from '../components/loadingScreen'
 
+// add Redux Store
+import { Provider } from 'react-redux'
+import store from '../redux/store'
+
+
 // add nprogress module
 import NProgress from 'nprogress';
 import 'nprogress/nprogress.css';
@@ -37,7 +42,7 @@ function MyApp({ Component, pageProps }) {
   const Layout = Component.Layout ? Component.Layout : React.Fragment;
 
   return (
-    // <Provider store={store}>
+     <Provider store={store}>
     <NoteProvider>
       <Layout>
         
@@ -45,7 +50,7 @@ function MyApp({ Component, pageProps }) {
         <Component {...pageProps} />
       </Layout>
       </NoteProvider>
-    // </Provider>
+     </Provider>
   )
 }
 

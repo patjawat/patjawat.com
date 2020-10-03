@@ -5,6 +5,8 @@ import { useRouter } from 'next/router'
 import { NoteConsumer } from '../components/NoteProvider';
 export default function Navigation() {
 // const context = Context;
+const counter = useSelector(state => state.book.numOfBooks);
+const store = useSelector(state => state);
   return (
     
     <nav id="top-nav" className="navbar fixed-top navbar-expand-lg navbar-dark">
@@ -18,7 +20,7 @@ export default function Navigation() {
           
           )}
   </NoteConsumer>
-
+  {JSON.stringify(store)}
       </a>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#topnavbar" aria-controls="topnavbar" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon" />
