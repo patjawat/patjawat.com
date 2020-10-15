@@ -6,7 +6,8 @@ wordpress:
     restart: always
     volumes:
       - ./public_html:/var/www/html
-      #  - ./php/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+      - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+      # - ./mysql/php/conf.d/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
     # environment:
     # WORDPRESS_DB_HOST: database:db
     # WORDPRESS_DB_PASSWORD: docker
