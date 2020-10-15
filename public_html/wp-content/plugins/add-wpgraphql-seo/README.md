@@ -57,8 +57,10 @@ This applies to `twitterImage` and `opengraphImage`
 
 To query for the Yoast Data simply add the seo object to your query:
 
-```
-{
+### Post Type Data
+
+```graphql
+query GetPages {
   pages(first: 10) {
     edges {
       node {
@@ -101,7 +103,6 @@ To query for the Yoast Data simply add the seo object to your query:
             articleType
           }
         }
-
         author {
           node {
             seo {
@@ -126,8 +127,13 @@ To query for the Yoast Data simply add the seo object to your query:
       }
     }
   }
+}
+```
 
+### Post Taxonomy Data
 
+```graphql
+query GetCategories {
   categories(first: 10) {
     edges {
       node {
@@ -164,8 +170,13 @@ To query for the Yoast Data simply add the seo object to your query:
       }
     }
   }
+}
+```
 
+### User Data
 
+```graphql
+query GetUsers {
   users {
     nodes {
       seo {
@@ -188,18 +199,34 @@ To query for the Yoast Data simply add the seo object to your query:
     }
   }
 }
-
-
 ```
 
-To query for the site configuration data you can query from the root.
+### Edge Data
 
-```
-{
+```graphql
+query GetPostsWithIsPrimary {
   posts {
-
+    nodes {
+      title
+      slug
+      categories {
+        edges {
+          isPrimary
+          node {
+            name
+            count
+          }
+        }
+      }
+    }
   }
+}
+```
 
+### Yoast COnfig Data
+
+```graphql
+query GetSeoConfig {
   seo {
     webmaster {
       googleVerify
@@ -282,7 +309,20 @@ To query for the site configuration data you can query from the root.
         mediaItemUrl
       }
     }
-    # Redirects only work in the premium version of Yoast
+    contentTypes {
+      post {
+        title
+        schemaType
+        metaRobotsNoindex
+        metaDesc
+      }
+      page {
+        metaDesc
+        metaRobotsNoindex
+        schemaType
+        title
+      }
+    }
     redirects {
       origin
       target
