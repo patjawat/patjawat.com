@@ -4,7 +4,7 @@ export default function Screens() {
     return (
         <div id="screens" className="container-fluid">
   <div className="container">
-    <h2 id="screens-title" className="section-title aos-init aos-animate" data-aos="fade-up">App Screens</h2>
+    <h2 id="screens-title" className="section-title aos-init aos-animate" data-aos="fade-up">App Screensxxx</h2>
     <span className="section-text aos-init aos-animate" data-aos="fade-up">Lorem Ipsum is simply dummy text of the printing and typesetting
       industry. Lorem Ipsum has been the industry's standard dummy text ever</span>
     <div className="slider-container aos-init aos-animate" data-aos="fade-up">

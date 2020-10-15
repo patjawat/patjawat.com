@@ -1,10 +1,10 @@
 import React from 'react'
-
+import axios from 'axiox'
 export default function Posts() {
     return (
 <div id="posts" className="container-fluid">
   <div className="container">
-    <h2 className="section-title aos-init aos-animate" data-aos="fade-up">Latest Post</h2>
+    <h2 className="section-title aos-init aos-animate" data-aos="fade-up">Latest Postxx</h2>
     <span className="section-text aos-init aos-animate" data-aos="fade-up">Lorem Ipsum is simply dummy text of the printing and typesetting
       industry. Lorem Ipsum has been the industry's standard dummy text ever.</span>
     <div className="row justify-content-center">
